@@ -1,0 +1,139 @@
+.heading{
+    text-align: center;
+    /* border: 2px solid red; */
+    margin: 10px auto;
+   
+    width: 350px;
+    font-size: 100px;
+    display: inline-block;
+    font-family:caveat; 
+     
+    height: 50%;
+    
+}
+
+   
+h1{
+    display: inline;
+    height: 50%;
+
+    
+}
+.container1
+{
+    /* border: 2px solid yellow; */
+    height: 50%;
+    padding-top: 10%;
+    padding-left: 35%;
+    padding-bottom: 10%;
+    background: url('wallpaper1.jpg');
+    background-size: 1140px; 
+    
+    
+}
+.container2{
+    /* border: 2px solid yellow; */
+    height: 750px;
+    padding-top: 250px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background: url('bg1.jpg');
+}
+.container2 p{
+    /* border: 2px solid red; */
+    word-spacing: 2px;
+    
+    /* color:solid blue; */
+    font-family: "sans-serif";
+    width: 50%;
+    height: 60%;
+    float: right;
+    font-size:x-large;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+ 
+
+}
+
+.img1{
+    display: inline;
+    filter: drop-shadow(0.1rem 0.3rem 2rem rgba(0, 0, 0, 0.8));
+    width: 400px;
+    height: 550px;
+}
+.img2{
+    display: inline;
+    filter: drop-shadow(0.1rem 0.3rem 2rem rgba(0, 0, 0, 0.8));
+    width: 400px;
+    height: 550px;
+    padding-left: 15%;
+
+}
+.container3{
+    /* border: 2px solid yellow; */
+    height: 750px;
+    padding-top: 250px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background: url('bg2.jpg');
+
+}
+.container3 p{
+    /* border: 2px solid red; */
+    word-spacing: 2px;
+    
+    /* color:solid blue; */
+    font-family: "sans-serif";
+    width: 50%;
+    height: 60%;
+    float: left;
+    font-size:x-large;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+#figcap{
+    float: right;
+    padding-left: 5%;
+    width: fit-content;
+
+}
+.img3{
+    display: inline;
+    filter: drop-shadow(0.1rem 0.3rem 2rem rgba(0, 0, 0, 0.8));
+    width: 500px;
+    height: 470px;
+
+}
+.container4{
+    /* border: 2px solid yellow; */
+    height: 750px;
+    padding-top: 250px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background: url('bg4.jpg');
+}
+.container4 p{
+    /* border: 2px solid red; */
+    word-spacing: 2px;
+    
+    /* color:solid blue; */
+    font-family: "sans-serif";
+    width: 50%;
+    height: 60%;
+    float: right;
+    font-size:x-large;
+    padding-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     
+}
+/* hinkk */
+h1{
+    color:#001014;
+    font-family: cursive ;
+   text-decoration: underline;
+   text-transform: capitalize;
+   
+ 
+}
